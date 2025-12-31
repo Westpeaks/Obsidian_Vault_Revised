@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Zettelkasten/My SQL Commands Cheat Sheet.md",
+                "file": "1 Zettelkasten/Setting a Git Repo to Authenticate via SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My SQL Commands Cheat Sheet"
+              "title": "Setting a Git Repo to Authenticate via SSH"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Zettelkasten/My SQL Commands Cheat Sheet.md",
+                "file": "1 Zettelkasten/Setting a Git Repo to Authenticate via SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from My SQL Commands Cheat Sheet"
+              "title": "Outgoing links from Setting a Git Repo to Authenticate via SSH"
             }
           },
           {
@@ -179,6 +179,9 @@
   },
   "active": "c52d18fd9b9ee10a",
   "lastOpenFiles": [
+    "Untitled.md",
+    "1 Zettelkasten/Setting a Git Repo to Authenticate via SSH.md",
+    "1 Zettelkasten/My SQL Commands Cheat Sheet.md",
     "1 Zettelkasten/What is Needed for an EC2 Instance.md",
     "2 Areas/AWS Index.md",
     "2 Areas/Networking Index.md",
@@ -214,9 +217,6 @@
     "Khazad-dûm/Tags/Programming Fundamentals.md",
     "Khazad-dûm/Tags/Certificates.md",
     "Khazad-dûm/Tags/C Sharp.md",
-    "Khazad-dûm/Notes/Common Application Interview Questions.md",
-    "Khazad-dûm/Notes/Dev Tools Basics.md",
-    "Khazad-dûm/Notes/Network Fundamentals.md",
     "SDN2.png",
     "SDN.png",
     "CICDbreakdown.svg",
