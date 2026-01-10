@@ -98,13 +98,13 @@
 
 ## ⚙️ Toggles
 
-|Hotkey|Function|
-|---|---|
-|`Ctrl + Super + I`|Toggle idle/sleep prevention|
-|`Ctrl + Super + N`|Toggle nightlight display|
-|`Shift + Super + Space`|Toggle the top bar|
-|`Super + Mute`|Switch to next audio output|
-|`Ctrl + Super + B`|Show battery level notification|
+| Hotkey                  | Function                        |
+| ----------------------- | ------------------------------- |
+| `Ctrl + Super + I`      | Toggle idle/sleep prevention    |
+| `Ctrl + Super + N`      | Toggle nightlight display       |
+| `Shift + Super + Space` | Toggle the top bar              |
+| `Super + Mute`          | Switch to next audio output     |
+| `Ctrl + Super + B`      | Show battery level notification |
 
 ---
 
@@ -201,6 +201,15 @@
 
 ---
 
+## 🖼️ Resizing and Moving Windows When Using Picture in Picture
+
+| **Hotkey**            | Completion                 |
+| --------------------- | -------------------------- |
+| `Super + Left Click`  | Move window                |
+| `Super + Right Click` | Enlarge/reduce window size |
+
+
+---
 ## 📚 Additional Resources
 
 - **Learn Menu:** Access through Omarchy Menu (`Super + Alt + Space`)
