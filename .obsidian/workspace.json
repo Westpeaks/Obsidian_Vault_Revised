@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Journal/2026-01-11.md",
+                "file": "1 Zettelkasten/Setting a Git Repo to Authenticate via SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-11"
+              "title": "Setting a Git Repo to Authenticate via SSH"
             }
           }
         ]
@@ -179,18 +179,18 @@
   },
   "active": "c52d18fd9b9ee10a",
   "lastOpenFiles": [
-    "0 Inbox/Setting up UFW Firewall.md",
+    "2 Areas/Linux Hardware Index.md",
+    "0 Inbox/Make Linux ownership common commands note.md",
+    "0 Inbox/Goal Estimation.md",
+    "0 Inbox/Resolving Moving cursor issue on Macbooks Running Linux.md",
+    "0 Inbox/Setting Up SSH.md",
+    "1 Zettelkasten/Setting up UFW Firewall.md",
     "3 Journal/2026-01-11.md",
     "().md",
-    "0 Inbox/Resolving Moving cursor issue on Macbooks Running Linux.md",
-    "2 Areas/Linux Hardware Index.md",
-    "0 Inbox/Setting Up SSH.md",
     "3 Journal/2026-01-10.md",
     "1 Zettelkasten/Omarchy Key Bindings Cheat Sheet.md",
     "1 Zettelkasten/Linux/Arch Linux/Omarchy Key Bindings Cheat Sheet 1.md",
     "Omarchy Key Bindings Cheat Sheet.md",
-    "0 Inbox/Goal Estimation.md",
-    "0 Inbox/Make Linux ownership common commands note.md",
     "3 Journal/2026-01-02.md",
     "3 Journal/2026-01-01.md",
     "3 Journal/2025-12-31.md",

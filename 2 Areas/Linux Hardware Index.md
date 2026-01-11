@@ -1,6 +1,6 @@
 An index fro troubleshooting Linux hardware related issues.
 
-## Fire walls
+## Firewalls
 
 - [[Setting up UFW Firewall]]
 
