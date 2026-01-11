@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inbox/Setting up UFW Firewall.md",
+                "file": "3 Journal/2026-01-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setting up UFW Firewall"
+              "title": "2026-01-11"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "c52d18fd9b9ee10a",
   "lastOpenFiles": [
-    "().md",
     "0 Inbox/Setting up UFW Firewall.md",
+    "3 Journal/2026-01-11.md",
+    "().md",
     "0 Inbox/Resolving Moving cursor issue on Macbooks Running Linux.md",
     "2 Areas/Linux Hardware Index.md",
     "0 Inbox/Setting Up SSH.md",
@@ -204,7 +205,6 @@
     "Khazad-dûm/Notes/Virtual Machines - Error Installing Windows VMs.md",
     "Khazad-dûm/Notes/Azure - Basic Concepts of Account & Subscriptions.md",
     "Khazad-dûm/Indexes/Azure.md",
-    "Khazad-dûm/Templates/Full Note.md",
     "Ascension/Tags",
     "Khazad-dûm/Photos and Diagrams/Risk Register.svg",
     "Khazad-dûm/Photos and Diagrams/Gitlab Exit Code.png",
