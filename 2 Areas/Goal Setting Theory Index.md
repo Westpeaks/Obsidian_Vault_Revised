@@ -21,10 +21,12 @@
 
 [[Set Goals with a Proper Difficulty]]
 
+[[Goals Should be Measureable]]
+
 [[Goal Estimation]]
 
 [[Goals and Accountability]]
 
 [[2025-12-08]]
 
-2025120803
+20251208
