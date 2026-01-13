@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Zettelkasten/Setting a Git Repo to Authenticate via SSH.md",
+                "file": "3 Journal/2026-01-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setting a Git Repo to Authenticate via SSH"
+              "title": "2026-01-13"
             }
           }
         ]
@@ -179,6 +179,10 @@
   },
   "active": "c52d18fd9b9ee10a",
   "lastOpenFiles": [
+    "1 Zettelkasten/Changing a GitHub Master Branch to Main.md",
+    "3 Journal/2026-01-13.md",
+    "1 Zettelkasten/Cloud Networking Project.md",
+    "1 Zettelkasten/Setting a Git Repo to Authenticate via SSH.md",
     "2 Areas/Linux Hardware Index.md",
     "0 Inbox/Make Linux ownership common commands note.md",
     "0 Inbox/Goal Estimation.md",
@@ -194,7 +198,6 @@
     "3 Journal/2026-01-02.md",
     "3 Journal/2026-01-01.md",
     "3 Journal/2025-12-31.md",
-    "1 Zettelkasten/Setting a Git Repo to Authenticate via SSH.md",
     "Untitled.md",
     "1 Zettelkasten/My SQL Commands Cheat Sheet.md",
     "1 Zettelkasten/What is Needed for an EC2 Instance.md",
@@ -202,9 +205,6 @@
     "2 Areas/Networking Index.md",
     "1 Zettelkasten/Pushing Local Changes Back to a GitHub Repository.md",
     "1 Zettelkasten/Git Basics.md",
-    "Khazad-dûm/Notes/Virtual Machines - Error Installing Windows VMs.md",
-    "Khazad-dûm/Notes/Azure - Basic Concepts of Account & Subscriptions.md",
-    "Khazad-dûm/Indexes/Azure.md",
     "Ascension/Tags",
     "Khazad-dûm/Photos and Diagrams/Risk Register.svg",
     "Khazad-dûm/Photos and Diagrams/Gitlab Exit Code.png",
