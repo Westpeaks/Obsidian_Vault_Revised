@@ -1,4 +1,4 @@
-
+blk
 - Goals must be simple and achievable.
 - Must be 100% controllable. 
 - An outcome is not a goal, but goals will have outcomes (**Ex.** Landing my first job as a DevOps engineer). 
