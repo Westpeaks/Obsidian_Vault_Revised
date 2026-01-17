@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Goal Setting Theory Index"
             }
+          },
+          {
+            "id": "7840448aa2fef43f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4322507640ee318b",
+  "active": "7840448aa2fef43f",
   "lastOpenFiles": [
     "1 Zettelkasten/Goals Should be Measureable.md",
     "2 Areas/Goal Setting Theory Index.md",
