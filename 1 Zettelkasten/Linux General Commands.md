@@ -39,4 +39,22 @@ hostname
 ### How Long has This System Been Running?
 
 - This will show you the up-time. 
-  ```bashz
+  ```bash
+  uptime
+  ```
+### **Create a File**
+
+- This creates an empty file called `myfile.txt`. No output means it worked.
+```
+touch myfile.txt
+```
+### See History of Everything You Typed
+
+- Will look up the history of your most recent CLI session.
+  ```bash
+  history
+  ```
+
+202501119
+
+
