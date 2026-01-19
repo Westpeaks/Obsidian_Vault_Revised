@@ -29,5 +29,14 @@ hostname
   ```
   ls /etc
   ```
-  
 
+### What is the Current Date/Time
+
+- This will list the current time.
+  ```bash
+  date
+  ```
+### How Long has This System Been Running?
+
+- This will show you the up-time. 
+  ```bashz
