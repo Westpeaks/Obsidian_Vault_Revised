@@ -7,7 +7,3 @@
 - [[How IP Addresses are Assigned]]
 - [[How one Device Connects to Another Device]]
 - [[Linux Terminal - Attaining internal and External IP Addresses]]
-
-## Links:
-
-2025120601

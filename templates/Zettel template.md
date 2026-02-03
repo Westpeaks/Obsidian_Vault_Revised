@@ -3,4 +3,4 @@
 
 ## Links:
 
-<% tp.date.now("YYYYMMDDmm") %>
+<% tp.date.now("YYYYMMDD") %>
