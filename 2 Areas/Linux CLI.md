@@ -1,11 +1,15 @@
 
 ## General
 
-[[Linux General Commands]]
+[[Absolute vs Relative Paths]]
 
 [[Everything is a File]]
 
 [[Linux Key Directories]]
+
+## Commands
+
+[[Linux General Commands]]
 
 [[Linux cd Command Cheat Sheet]]
 
@@ -13,7 +17,7 @@
 
 [[Linux rm Command Cheat Sheet]]
 
-
+[[Linux find Command Cheat Sheet]]
 
 ## Network/IP
 
