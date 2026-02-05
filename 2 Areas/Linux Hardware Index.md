@@ -8,3 +8,8 @@ An index fro troubleshooting Linux hardware related issues.
 
 - [[Resolving Moving cursor issue on 2017 Macbooks Running Linux]]
 - [[Rebuilding my Internal Speaker Driver after Updating the Linux Kernel]]
+
+## Drives
+
+- [[Partitioning Drives in Fedora]]
+
