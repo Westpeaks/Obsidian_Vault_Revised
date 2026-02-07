@@ -8,8 +8,8 @@ An index fro troubleshooting Linux hardware related issues.
 
 - [[Resolving Moving cursor issue on 2017 Macbooks Running Linux]]
 - [[Rebuilding my Internal Speaker Driver after Updating the Linux Kernel]]
-
+- [[Setting up Wifi Card for Arch on 2017 Macbook Pro]]
 ## Drives
 
-- [[Partitioning Drives in Fedora]]
+
 
