@@ -4,6 +4,7 @@
 ```bash
 sudo pacman -S linux-firmware iw iwd
 ```
+- It is also important to note that the hardware for the Macbook works best on the LTS verison of the Linux kernel. (6.12.68-1-lts)
 
 2. **Download the BCM43602 configuration file:**
 ```bash
@@ -17,6 +18,8 @@ nano brcmfmac43602-pcie.txt
 ```
 
 Find the line `macaddr=xx:xx:xx:xx:xx:xx` and replace with your actual MAC address (get it with `ip link show wlan0`)
+
+- My device's MAC = 00:90:4c:0d:f4:3e
 
 4. **Copy the configuration file to firmware directory:**
 ```bash
