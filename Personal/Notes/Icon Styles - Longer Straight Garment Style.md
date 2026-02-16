@@ -1,0 +1,1 @@
+![[Christ pantocrator.jpg]]![[ilsegnodigoniarublev.jpg]]![[islegnodigionaFINITO-1.jpg]]![[angelo-michele-1.jpg]]![[FINITA-RIquadrata-copia-2-1.jpg]]![[IMG_4620-copia-copia-1.jpg]]![[Madonna-copia-1.jpg]]![[IconsTheotokosGarmentSleeve 1.jpg]]

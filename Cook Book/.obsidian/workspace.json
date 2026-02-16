@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "6bc625883ecce9cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3d7911654f515e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db5c5817eb677189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Gigantes Bean Baked Casserole (Plaki).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gigantes Bean Baked Casserole (Plaki)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8b40b6d2aeb0025",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b478e6f1cc23615",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a31bc125f633ee4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f2b461bb5a659d11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "db8d4286d91176f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84a8075018c38774",
+    "type": "split",
+    "children": [
+      {
+        "id": "bae90682020749b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b0eaeccb21d7ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Greek Yogurt Banana Bread.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Greek Yogurt Banana Bread"
+            }
+          },
+          {
+            "id": "3bfa3de222867b76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Greek Yogurt Banana Bread.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Greek Yogurt Banana Bread"
+            }
+          },
+          {
+            "id": "c5069c7ad9c42f5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f7c3f3de0b964333",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Greek Yogurt Banana Bread.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Greek Yogurt Banana Bread"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "recipe-grabber:Recipe Grabber": false,
+      "recipe-view:Toggle recipe view": false
+    }
+  },
+  "active": "db5c5817eb677189",
+  "lastOpenFiles": [
+    "Recipes/Greek pork stew with orzo – Yiouvetsi.md",
+    "Recipes/Gigantes Bean Baked Casserole (Plaki).md",
+    "Recipes/Turmeric-Basmati Rice Pilaf.md",
+    "Recipes/Lamb chops with Potatoes in Lemon (Parchment Wrap).md",
+    "Recipes/Chicken Shawarma.md",
+    "Recipes/Korean -  Ground Beef Bulgogi.md",
+    "Recipes/Greek Yogurt Banana Bread.md",
+    "Tags/Rice.md",
+    "Tags/Mediterranean.md",
+    "Tags/Middle Eastern.md",
+    "Templates/Recipe Template.md",
+    "tumbaspilaf 1.jpg",
+    "tumbaspilaf.jpg",
+    "Recipes/Salsa - Salsa Roja Taquera.md",
+    "Recipes/Pecan Pie Bars.md",
+    "Recipes/Carne Guisada.md",
+    "Recipes/Barbacoa - Open Fire or in the Oven.md",
+    "LambCHLemon.png",
+    "Tags/Dessert.md",
+    "Tags/Bread.md",
+    "Recipes/Untitled 1.md",
+    "Greek Yogurt Banana Bread.md",
+    "Tags/Salsa.md",
+    "Tags/Asian.md",
+    "Templates",
+    "Welcome.md",
+    "Tags/Traditional.md",
+    "Tags/Stir Fry.md",
+    "Tags/Mexican.md",
+    "Tags/Meat.md",
+    "Tags",
+    "Recipes",
+    "Pasted image 20250524113858.png",
+    "Pasted image 20250510003106.png",
+    "Pasted image 20250509184648.png",
+    "Pasted image 20250509153447.png",
+    "Pasted image 20250509152333.png"
+  ]
+}

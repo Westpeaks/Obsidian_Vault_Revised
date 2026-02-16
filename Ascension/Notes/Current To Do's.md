@@ -1,0 +1,3 @@
+- Shadow risk assessments with Will Norat and Ben Adji.
+- Study Risk Assessment solution in Onspring.
+- Prepare a Vendor list for Prod. 

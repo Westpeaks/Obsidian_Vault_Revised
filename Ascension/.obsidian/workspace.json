@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "4c7fdee683d45727",
+    "type": "split",
+    "children": [
+      {
+        "id": "6101404a0e1a1328",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "946fa292aef9315b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/ServiceNow Introduction to Time Tracking - Access.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ServiceNow Introduction to Time Tracking - Access"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d5891574e9ae1c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed77308673124f91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4cc6303d91f1378",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "91dbead55afc39ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e014a017f5e6d0c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6090703aa5c25d64",
+    "type": "split",
+    "children": [
+      {
+        "id": "c92205a9c0a027e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5eb219d08ce49d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "dbaa82979017bf5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4ad86196cfb2df26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c9ef1b06268c377d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "946fa292aef9315b",
+  "lastOpenFiles": [
+    "Notes/ServiceNow Introduction to Time Tracking - Standards.md",
+    "Notes/ServiceNow Introduction to Time Tracking - Time Sheet Navigation.md",
+    "Notes/ServiceNow Introduction to Time Tracking - Access.md",
+    "Notes/ServiceNow Essentials - Reporting from ServiceNow.md",
+    "Untitled.md",
+    "Notes/ServiceNow Essentials - Service Portfolio Management.md",
+    "Notes/ServiceNow Introduction to Time Tracking - Approvals.md",
+    "Notes/ServiceNow Introduction to Time Tracking - Scope.md",
+    "Notes/ServiceNow Introduction to Time Tracking - Rejected Time Card.md",
+    "Indexes/ServiceNow Introduction to Time Tracking.md",
+    "Notes/ServiceNow Effective Incident Resolution - Service Operations Workspace for Incident Management.md",
+    "Notes/ServiceNow Effective Incident Resolution - Incident Resolution & Recovery.md",
+    "Notes/ServiceNow Essentials - NOW mobile.md",
+    "Notes/ServiceNow Essentials - Data Foundation and Groups.md",
+    "Notes/ServiceNow Essentials - Getting Started with MyTechnology.md",
+    "Notes/ServiceNow Essentials - Intro.md",
+    "Notes/ServiceNow Essentials - Locations.md",
+    "Indexes/ServiceNow Essentials.md",
+    "Notes/ServiceNow Effective Incident Resolution - Incident Investigation & Diagnosis.md",
+    "Notes/ServiceNow Effective Incident Resolution - Inter-Process Relationships.md",
+    "Notes/Incident Management - Lifecycle Overview.canvas",
+    "Notes/ServiceNow Effective Incident Resolution - Incident Detection & Recording.md",
+    "Tags/ServiceNow.md",
+    "Tags/Incident Management.md",
+    "Notes/Code Breakdown of ServiceNow Integration.md",
+    "Notes/Heat Map Ideas.md",
+    "Notes/Toby Solution.md",
+    "Templates",
+    "Tags",
+    "Photos and Diagrams/Untitled",
+    "Photos and Diagrams",
+    "Indexes",
+    "Notes"
+  ]
+}

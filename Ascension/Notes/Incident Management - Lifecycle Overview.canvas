@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"6365ad518ae2a25f","type":"text","text":"Investigation and Diagnosis","x":-240,"y":-213,"width":250,"height":60},
+		{"id":"7d6fcd215994e139","type":"text","text":"- incident review\n- major incident assessment\n- detailed investigation\n- diagnosis\n- restoration plan\n","x":-249,"y":-60,"width":269,"height":168},
+		{"id":"5095dca5e0ca0a3f","type":"text","text":"This is the stage where you asses whether the incident is isolated or a major incident. ","x":-240,"y":180,"width":250,"height":106},
+		{"id":"b32377567cee9cc1","type":"text","text":"Incident Management - Lifecycle Overview","x":-249,"y":-560,"width":340,"height":80},
+		{"id":"c4c07a459e2b46ac","type":"text","text":"Resolution and Recovery","x":91,"y":-213,"width":250,"height":60},
+		{"id":"b7bad109cfca5c2f","type":"text","text":"- request for change (RFC) assessment\n- resolution implementation\n- restoration confirmation","x":131,"y":-61,"width":273,"height":150},
+		{"id":"f0297c8e642f7174","type":"text","text":"Incident Closure","x":404,"y":-360,"width":175,"height":64},
+		{"id":"97cdb85d29619db2","type":"text","text":"Detection and Recording","x":-586,"y":-326,"width":250,"height":60},
+		{"id":"4183aca2abb086c2","type":"text","text":"- detection\n- recording\n- diagnosis\n- support\n- assignment\n- acceptance","x":-586,"y":-213,"width":250,"height":197},
+		{"id":"0b6f0ed591bad9d9","type":"text","text":"- solution review\n- resolution acceptance or rejection\n- incident survey","x":454,"y":-185,"width":250,"height":124},
+		{"id":"bb18d30373fec61b","type":"text","text":"First step, determining scope and logging issue.","x":-586,"y":59,"width":250,"height":60},
+		{"id":"b85300cc5ea7e491","type":"text","text":"This is where a resoltion is determined and implemented","x":131,"y":141,"width":272,"height":78},
+		{"id":"11b30fdd041f1001","type":"text","text":"Post resolution, reflect on successes/failures and make a plan for future success. Close out incident.","x":454,"y":-1,"width":250,"height":121},
+		{"id":"35e8b5b22204a468","type":"text","text":"[[Tags/ServiceNow]], [[Incident Management]] ","x":-608,"y":-597,"width":308,"height":60}
+	],
+	"edges":[
+		{"id":"2254ae64aa6266be","fromNode":"b32377567cee9cc1","fromSide":"bottom","toNode":"97cdb85d29619db2","toSide":"top"},
+		{"id":"42c3b4e428b44432","fromNode":"97cdb85d29619db2","fromSide":"bottom","toNode":"4183aca2abb086c2","toSide":"top"},
+		{"id":"5ce33ef696374f07","fromNode":"b32377567cee9cc1","fromSide":"bottom","toNode":"6365ad518ae2a25f","toSide":"top"},
+		{"id":"afbdcb367d16b15e","fromNode":"7d6fcd215994e139","fromSide":"bottom","toNode":"5095dca5e0ca0a3f","toSide":"top"},
+		{"id":"a4ab1fb0a8f7899c","fromNode":"6365ad518ae2a25f","fromSide":"bottom","toNode":"7d6fcd215994e139","toSide":"top"},
+		{"id":"ffac3028a457e0c0","fromNode":"b32377567cee9cc1","fromSide":"bottom","toNode":"c4c07a459e2b46ac","toSide":"top"},
+		{"id":"b5b01b75099bd269","fromNode":"c4c07a459e2b46ac","fromSide":"bottom","toNode":"b7bad109cfca5c2f","toSide":"top"},
+		{"id":"15f2c1d8fdd0e473","fromNode":"b32377567cee9cc1","fromSide":"bottom","toNode":"f0297c8e642f7174","toSide":"top"},
+		{"id":"ec7b704821f40dd3","fromNode":"f0297c8e642f7174","fromSide":"bottom","toNode":"0b6f0ed591bad9d9","toSide":"top"},
+		{"id":"f53c68f3435c3463","fromNode":"4183aca2abb086c2","fromSide":"bottom","toNode":"bb18d30373fec61b","toSide":"top"},
+		{"id":"384b71c93bd93859","fromNode":"b7bad109cfca5c2f","fromSide":"bottom","toNode":"b85300cc5ea7e491","toSide":"top"},
+		{"id":"1c1846f8546ec036","fromNode":"0b6f0ed591bad9d9","fromSide":"bottom","toNode":"11b30fdd041f1001","toSide":"top"},
+		{"id":"25460acd97918f38","fromNode":"97cdb85d29619db2","fromSide":"right","toNode":"6365ad518ae2a25f","toSide":"left"},
+		{"id":"67c9fcad96f754e3","fromNode":"6365ad518ae2a25f","fromSide":"right","toNode":"c4c07a459e2b46ac","toSide":"left"},
+		{"id":"6c2d8c4171df6171","fromNode":"c4c07a459e2b46ac","fromSide":"right","toNode":"f0297c8e642f7174","toSide":"left"}
+	]
+}

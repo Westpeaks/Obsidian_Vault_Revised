@@ -1,0 +1,1 @@
+![[AbstractIconArtSeraphim.jpg]]![[AbstractIconArtWheelAngel.jpg]]

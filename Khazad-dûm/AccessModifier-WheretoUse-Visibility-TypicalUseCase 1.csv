@@ -1,0 +1,4 @@
+"Access Modifier","Where to Use","Visibility","Typical Use Case"
+"public","Class, member","Anywhere (all classes)","Expose functionality/data"
+"private","Member (field, method)","Only within the same class","Hide implementation details"
+"(none)","Class","Internal (same assembly by default)","Library/internal code"

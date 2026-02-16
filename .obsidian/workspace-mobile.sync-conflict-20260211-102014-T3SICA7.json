@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "e864f4173e66e5d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa43b8b3294996e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba21f5c7f28d0052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cook Book/Recipes/Turmeric-Basmati Rice Pilaf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Turmeric-Basmati Rice Pilaf"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3afe4390b498b568",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "105fa768863e912e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5e3b2a3d0afc65cd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "e8bc75b5a81c2390",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "542806269de0321f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "084140ca87e3ae65",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d353dc7cb665c0e1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Icon color layers.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "6c3e3535a3bdd68c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Personal/Notes/Chicken Shawarma.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "85ef04ddb9cd9c2a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Personal/Notes/Chicken Shawarma.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ba21f5c7f28d0052",
+  "lastOpenFiles": [
+    "Cook Book/Recipes/Gigantes Bean Baked Casserole (Plaki).md",
+    "Cook Book/Recipes/Turmeric-Basmati Rice Pilaf.md",
+    "Cook Book/Recipes/Greek pork stew with orzo – Yiouvetsi.md",
+    "Icon color layers.md",
+    "Khazad-dûm/Notes/Windows - Check Permissions of a Folder.md",
+    "Cook Book/Tags/Rice.md",
+    "Cook Book/Tags/Middle Eastern.md",
+    "Cook Book/Tags/Mediterranean.md",
+    "Cook Book/tumbaspilaf.jpg",
+    "Cook Book/tumbaspilaf 1.jpg",
+    "Cook Book/GIGANTES BAKED GIANT BEAN CASSEROLE.md",
+    "Cook Book/Recipes/Lamb chops with Potatoes in Lemon (Parchment Wrap).md",
+    "Cook Book/Recipes/Greek Yogurt Banana Bread.md",
+    "Cook Book/LambCHLemon.png",
+    "Cook Book/Recipes/Pecan Pie Bars.md",
+    "Ascension/Indexes/ServiceNow Essentials.md",
+    "Cook Book/Recipes/Chicken Shawarma.md",
+    "Personal/Notes/On God and Christ - Oration 28.md",
+    "Personal/Notes/Chicken Shawarma.md",
+    "Personal/Notes/Carne Guisada.md",
+    "Personal/Notes/Barbacoa - Open Fire or in the Oven.md",
+    "Personal/Notes/Chicken Shwarma.md",
+    "Personal/Pasted image 20250524113858.png",
+    "Khazad-dûm/Indexes/Docker Index.md",
+    "Khazad-dûm/Indexes/C Sharp Index.md",
+    "Khazad-dûm/Indexes/Azure Index.md",
+    "Khazad-dûm/Indexes/GitLab CI CD for DevOps Index.md",
+    "Khazad-dûm/Indexes/Git Index.md",
+    "Khazad-dûm/Indexes/Linux Index.md",
+    "Khazad-dûm/Indexes/Networks Index.md",
+    "Khazad-dûm/Photos and Diagrams/zta-logical-components.webp",
+    "Khazad-dûm/Photos and Diagrams/Screenshot 2024-08-19 at 7.40.03 PM.png",
+    "Khazad-dûm/Photos and Diagrams/Terraform Workflow.png",
+    "Khazad-dûm/Photos and Diagrams/HashingDataInteg.png",
+    "Khazad-dûm/Photos and Diagrams/Hashing 1.png",
+    "Khazad-dûm/Photos and Diagrams/cyber-triad-1.png",
+    "Khazad-dûm/Photos and Diagrams/Linux-cheat-sheet-v1.pdf",
+    "Khazad-dûm/Photos and Diagrams/davechild_linux-command-line.pdf",
+    "Khazad-dûm/Photos and Diagrams/davechild_linux-command-line 1.pdf",
+    "Khazad-dûm/Photos and Diagrams/Untitled.canvas",
+    "Khazad-dûm/Photos and Diagrams/CICDbreakdown.svg.xml",
+    "Khazad-dûm/Photos and Diagrams/Risk Register.svg.xml",
+    "Khazad-dûm/Photos and Diagrams/GLMM1.svg.xml",
+    "Khazad-dûm/Photos and Diagrams/Untitled 1.canvas",
+    "Khazad-dûm/Photos and Diagrams/RCMM1.svg.xml",
+    "Khazad-dûm/Photos and Diagrams/OSI Model.svg.xml",
+    "Khazad-dûm/Photos and Diagrams/Linux File Permissions Cheat Sheet.pdf",
+    "Khazad-dûm/Indexes"
+  ]
+}

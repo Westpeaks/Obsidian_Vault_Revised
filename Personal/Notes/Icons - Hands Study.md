@@ -1,0 +1,1 @@
+![[IconsHandsStudy.jpg]]![[IconsHandsStudywKid.jpg]]

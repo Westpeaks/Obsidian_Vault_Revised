@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "782e4f0dfd1673d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9402b8f9e6d25a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64e47ed51e332612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Git Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74810816143058a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c8062761a3562b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9a0a2e3fc207338",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9eef7d1cb233cbda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "terraform",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c08463b6bd95e0e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "right": {
+    "id": "024345cc6674489a",
+    "type": "split",
+    "children": [
+      {
+        "id": "95be2733c5544b05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99e5b84d93dee836",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4 - Notes/ActiveOPs Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ActiveOPs Notes"
+            }
+          },
+          {
+            "id": "6c8103c9e860fbd2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4 - Notes/ActiveOPs Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ActiveOPs Notes"
+            }
+          },
+          {
+            "id": "a8e79984afb99add",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "15deb0f3e32f3880",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4 - Notes/ActiveOPs Notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ActiveOPs Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "64e47ed51e332612",
+  "lastOpenFiles": [
+    "Notes/GitLab CI CD.md",
+    "Notes/Git Basics.md",
+    "Photos and Diagrams/Terraform Workflow 1.png",
+    "Notes/Terraform Basics.md",
+    "Notes/Terraform Command Cheat Sheet.md",
+    "Notes/Tmux - Basic Commands.md",
+    "Notes/Linux Admin - Rebooting and Shutting Down Commands.md",
+    "Indexes/GitLab CI CD for DevOps Index.md",
+    "Tags/Terraform.md",
+    "Notes/Omarchy Key Bindings.md",
+    "Indexes/Linux Index.md",
+    "Tags/Arch.md",
+    "Notes/Arch Linux - Pacman -S Option.md",
+    "Notes/How to stand out in an interview Atlassian.md",
+    "Notes/Interview PayIt Cheat Sheet.md",
+    "Notes/OSI Model.md",
+    "Tags/System Administration.md",
+    "Notes/Azure Resource Manager 1-5.md",
+    "Tags/Cloud.md",
+    "Notes/Cyber Security Legal and Regulatory Issues 4.md",
+    "Notes/Cyber Security Legal and Regulatory Issues 3.md",
+    "Notes/Cyber Security Legal and Regulatory Issues 2.md",
+    "Notes/Cyber Security Legal and Regulatory Issues.md",
+    "Tags/CISSP.md",
+    "Notes/Generation Effect.md",
+    "Notes/Confidentiality.md",
+    "Indexes/CISSP Index.md",
+    "AccessModifier-WheretoUse-Visibility-TypicalUseCase 1.csv",
+    "AccessModifier-WheretoUse-Visibility-TypicalUseCase.csv",
+    "Template",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "DevOps.webp",
+    "Screenshot 2025-02-15 at 3.00.31 PM.png",
+    "Screenshot 2025-02-15 at 2.59.17 PM.png",
+    "Diagram 1.svg.xml",
+    "Diagram 1.svg",
+    "terraform-cheatsheet-scaled.jpg",
+    "Screenshot 2025-02-04 at 10.32.30 PM.png",
+    "Untitled.canvas",
+    "Diagram.svg.xml",
+    "Diagram.svg",
+    "SQL CS.jpeg",
+    "SQL CS 1.jpeg",
+    "Photos and Diagrams",
+    "Templates",
+    "4 - Notes",
+    "3 - Indexes",
+    "2 - Tags"
+  ]
+}

@@ -1,0 +1,1 @@
+![[IconsTheotokosFace.jpg]]![[IconsTheotokosEyesStudy.jpg]]![[IconsTheotokosEyesHandsStudy.jpg]]

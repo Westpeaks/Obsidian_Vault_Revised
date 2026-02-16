@@ -1,0 +1,1 @@
+![[IconsStyleKrug.jpg]]![[IconsTheotokosKrugStyle.jpg]]

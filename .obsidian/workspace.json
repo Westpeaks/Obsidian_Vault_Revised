@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "99f4cc87eaf40c33",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a84b2f78a01df73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "419ff0d435b24ccf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "63b0458e4d0912ce",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b58d7c28d1dcbf4f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "48c2d5f8296ef01b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c8381f057ddcbd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a98a56324d0dbd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4322507640ee318b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fab9629b69f769b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3a7eca9a4a392710",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a222107bbca8771f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed570b6c2e3debf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5e13560b81f0edf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Khazad-dûm/4 - Notes/Security+ Chapter 10 Understanding Cryptography and Public Key Infrastructure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Security+ Chapter 10 Understanding Cryptography and Public Key Infrastructure"
+            }
+          },
+          {
+            "id": "7eb5296909e0592a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Khazad-dûm/Notes/Virtual Machines - Error Installing Windows VMs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Virtual Machines - Error Installing Windows VMs"
+            }
+          },
+          {
+            "id": "cf8dda1b874ecd68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "750db8fa5e716f01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Khazad-dûm/Notes/Virtual Machines - Error Installing Windows VMs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Virtual Machines - Error Installing Windows VMs"
+            }
+          },
+          {
+            "id": "43573060b78d3336",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "48c2d5f8296ef01b",
+  "lastOpenFiles": [
+    "Khazad-dûm/Notes/Virtual Machines - Error Installing Windows VMs.md",
+    "Sarlacc/3 Journal/2025-12-31.md",
+    "Khazad-dûm/Notes/Azure - Basic Concepts of Account & Subscriptions.md",
+    "Khazad-dûm/Indexes/Azure.md",
+    "Khazad-dûm/Templates/Full Note.md",
+    "Khazad-dûm/Notes/Untitled 1.md",
+    "Ascension/Notes/Entering Time in Service Now.md",
+    "Ascension/Notes/Untitled.md",
+    "Ascension/Templates/Full Note.md",
+    "Ascension/Tags",
+    "Khazad-dûm/Photos and Diagrams/Risk Register.svg",
+    "Khazad-dûm/Photos and Diagrams/Gitlab Exit Code.png",
+    "Khazad-dûm/Photos and Diagrams/Terraform Workflow.png",
+    "Khazad-dûm/Photos and Diagrams/OSI Model.svg",
+    "Khazad-dûm/Photos and Diagrams/GitLab Exit Code 2.png",
+    "Khazad-dûm/Photos and Diagrams/terraform-cheatsheet-scaled.jpg",
+    "Khazad-dûm/Indexes/Docker.md",
+    "Khazad-dûm/Untitled 2.canvas",
+    "Ascension/Photos and Diagrams",
+    "Ascension/Indexes",
+    "Ascension/Notes",
+    "Ascension/Welcome.md",
+    "Ascension",
+    "Khazad-dûm/Notes/Lightweight Docker Images.md",
+    "Khazad-dûm/Notes/C Sharp Specific - Basic Concepts.md",
+    "Khazad-dûm/Tags/Programming Fundamentals.md",
+    "Khazad-dûm/Tags/Certificates.md",
+    "Khazad-dûm/Tags/C Sharp.md",
+    "Khazad-dûm/Notes/Common Application Interview Questions.md",
+    "Khazad-dûm/Notes/Dev Tools Basics.md",
+    "Khazad-dûm/Notes/Network Fundamentals.md",
+    "Khazad-dûm/Notes/OSI Model.md",
+    "Khazad-dûm/Notes/Linux Admin -  Basic Commands for System Administration.md",
+    "Khazad-dûm/Notes/Terraform Command Cheat Sheet.md",
+    "Khazad-dûm/Notes/Terraform Basics.md",
+    "Khazad-dûm/Notes/GitLab CI CD.md",
+    "Khazad-dûm/Notes/Git Basics.md",
+    "Khazad-dûm/Notes/Interview Ascension Cheat Sheet.md",
+    "SDN2.png",
+    "SDN.png",
+    "CICDbreakdown.svg",
+    "RCMM1.svg",
+    "CICDbreakdown.svg.xml",
+    "RCMM1.svg.xml",
+    "GLMM1.svg.xml",
+    "Khazad-dûm/4 - Notes/~syncthing~Security+ Cram Session Domain 2.md.tmp",
+    "Khazad-dûm/4 - Notes/~syncthing~Security+ Review Chapters 1 & 2.md.tmp"
+  ]
+}
