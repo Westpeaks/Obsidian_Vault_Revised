@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: qnvas-deno2
+created: 2025-01-07T23:29:37-06:00
