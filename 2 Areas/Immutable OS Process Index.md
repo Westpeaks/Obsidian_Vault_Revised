@@ -6,5 +6,7 @@
 
 [[Mount an External Drive in the Linux Terminal]]
 
+[[Mounting an External Drive and Copying Files]]
+
 
 
