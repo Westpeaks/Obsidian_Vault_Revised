@@ -11,8 +11,9 @@ sudo mkdir /mnt/external
 
 3. Mount the drive
 ```bash
-sudo mount /dev/sdb1 /mnt/external
+sudo mount /dev/sda1 /mnt/external
 ```
+- The flash drive will typically be sda1. You'll need to verify by running lsblk. 
 
 4. Verify it's mounted
 ```bash
