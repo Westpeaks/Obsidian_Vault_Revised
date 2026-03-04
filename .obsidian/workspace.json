@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Journal/2026-02-18.md",
+                "file": "3 Journal/2026-03-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-18"
+              "title": "2026-03-04"
+            }
+          },
+          {
+            "id": "fb398340849d4814",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,10 +200,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cba4cded9688d076",
+  "active": "fb398340849d4814",
   "lastOpenFiles": [
-    "1 Zettelkasten/Setting up Wifi Card for Arch on 2017 Macbook Pro.md",
+    "1 Zettelkasten/API/API Common Errors.md",
+    "3 Journal/2026-03-04.md",
     "3 Journal/2026-02-18.md",
+    "1 Zettelkasten/Setting up Wifi Card for Arch on 2017 Macbook Pro.md",
     "conflict-files-obsidian-git.md",
     "0 Inbox/Deep Work.md",
     "0 Inbox/Cleaning Data with Python.md",
@@ -214,9 +229,7 @@
     "1 Zettelkasten/Linux cd Command Cheat Sheet.md",
     "1 Zettelkasten/Linux Key Directories.md",
     "1 Zettelkasten/Linux General Commands.md",
-    "1 Zettelkasten/Everything is a File.md",
     "Untitled.base",
-    "1 Zettelkasten/Goals and Accountability.md",
     "Ascension/Tags",
     "Khazad-dûm/Photos and Diagrams/Risk Register.svg",
     "Khazad-dûm/Photos and Diagrams/Gitlab Exit Code.png",
