@@ -155,9 +155,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "2065ad742d4b4d16",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -179,17 +189,17 @@
   },
   "active": "cba4cded9688d076",
   "lastOpenFiles": [
-    "1 Zettelkasten/Mount an External Drive in the Linux Terminal.md",
-    "3 Journal/2026-03-10.md",
-    "2 Areas/Immutable OS Process Index.md",
-    "0 Inbox/Mounting an External Drive and Copying Files.md",
-    "2 Areas/Linux Hardware Index.md",
-    "3 Journal/2026-02-28.md",
-    "1 Zettelkasten/Initial Process and Installation - Immutable OS.md",
-    "0 Inbox/Setting Up SSH.md",
     "0 Inbox/Make Linux ownership common commands note.md",
+    "0 Inbox/Mounting an External Drive and Copying Files.md",
     "0 Inbox/Deep Work.md",
     "0 Inbox/Cleaning Data with Python.md",
+    "2 Areas/Immutable OS Process Index.md",
+    "0 Inbox/Setting Up SSH.md",
+    "2 Areas/Linux Hardware Index.md",
+    "3 Journal/2026-03-10.md",
+    "1 Zettelkasten/Mount an External Drive in the Linux Terminal.md",
+    "3 Journal/2026-02-28.md",
+    "1 Zettelkasten/Initial Process and Installation - Immutable OS.md",
     "3 Journal/2026-02-26.md",
     "2 Areas/Networking Index.md",
     "Output/Write LinkedIn Post about Beginning Immutable Setup.md",

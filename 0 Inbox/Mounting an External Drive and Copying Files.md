@@ -19,7 +19,7 @@
 
 ### Run Initial Script
 
-- Once the file are copied, run the `fedora` script to install the necessary dependencies via rpm ostree (nvim, kitty, and tmux).
+- Once the files are copied, run the `fedora` script to install the necessary dependencies via rpm ostree (nvim, kitty, and tmux).
 - You can run the using the command `./fedora`.
 
 ### Reboot 
