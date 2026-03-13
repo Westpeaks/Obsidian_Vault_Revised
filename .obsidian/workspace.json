@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Zettelkasten/Pushing Local Changes Back to a GitHub Repository.md",
+                "file": "1 Zettelkasten/Linux General Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pushing Local Changes Back to a GitHub Repository"
+              "title": "Linux General Commands"
             }
           }
         ]
@@ -189,11 +189,11 @@
   },
   "active": "cba4cded9688d076",
   "lastOpenFiles": [
+    "2 Areas/Linux CLI.md",
+    "3 Journal/2026-03-12.md",
     "1 Zettelkasten/GitHub.md",
     "1 Zettelkasten/Goals and Accountability.md",
     "1 Zettelkasten/Git Basics.md",
-    "3 Journal/2026-03-12.md",
-    "2 Areas/Linux CLI.md",
     "1 Zettelkasten/AWS Unmanaged vs Managed Services.md",
     "1 Zettelkasten/Mount an External Drive in the Linux Terminal.md",
     "1 Zettelkasten/Everything is a File.md~",

@@ -54,7 +54,11 @@ touch myfile.txt
   ```bash
   history
   ```
+### Check Linux Version and Distro
+
+- Will provide current Linux distribution and version.
+  ```bash
+  lsb_release -a
+  ```
 
 202501119
-
-
