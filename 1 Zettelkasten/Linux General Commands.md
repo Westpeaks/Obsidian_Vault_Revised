@@ -58,7 +58,9 @@ touch myfile.txt
 
 - Will provide current Linux distribution and version.
   ```bash
-  lsb_release -a
+  lsb_release -a #this os for debian based distros
+  
+  cat /etc/os-release #this command is universal
   ```
 
 202501119
