@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2026-03-18"
             }
-          },
-          {
-            "id": "afebe650985c8a01",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afebe650985c8a01",
+  "active": "cba4cded9688d076",
   "lastOpenFiles": [
     "1 Zettelkasten/API/API Common Errors.md",
     "3 Journal/2026-03-18.md",
