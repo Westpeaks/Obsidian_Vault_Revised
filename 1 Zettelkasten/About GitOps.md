@@ -18,6 +18,9 @@
 
 - Facilitates automation for updates and rollbacks
 remote
+
 ## Links:
+
+[[Kubernetes Basics]]
 
 2025111404
