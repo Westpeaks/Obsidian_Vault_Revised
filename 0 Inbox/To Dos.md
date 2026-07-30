@@ -1,5 +1,5 @@
 
-- [ ] Need to take notes on the GitOps masterclass in Skool
+- [x] Need to take notes on the GitOps masterclass in Skool
 - [ ] Learn Lazygit
 - [ ] Get Neo-Tree cheat sheet
 - [x] Get Tmux cheat sheet

@@ -89,4 +89,6 @@ kubectl port-forward pod/linkding 8080:9090
 
 [[About GitOps]]
 
+[Ways of structuring your repositories](https://fluxcd.io/flux/guides/repository-structure/)
+
 20260727
