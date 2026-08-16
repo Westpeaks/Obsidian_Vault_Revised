@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inbox/Adding Storage to Deployed Container  via Flux.md",
+                "file": "0 Inbox/Exposing Kubernetes Applications to the Internet via Cloudflare Tunnels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adding Storage to Deployed Container  via Flux"
+              "title": "Exposing Kubernetes Applications to the Internet via Cloudflare Tunnels"
             }
           }
         ]
@@ -205,8 +205,9 @@
   },
   "active": "51d1cab60c6f8606",
   "lastOpenFiles": [
+    "1 Zettelkasten/Adding Storage to Deployed Container  via Flux.md",
+    "0 Inbox/Exposing Kubernetes Applications to the Internet via Cloudflare Tunnels.md",
     "1 Zettelkasten/Deploying an Application via Flux.md",
-    "0 Inbox/Adding Storage to Deployed Container  via Flux.md",
     "0 Inbox/To Dos.md",
     "0 Inbox/Operators for Kubernetes.md",
     "0 Inbox/Make Linux ownership common commands note.md",
@@ -232,7 +233,6 @@
     "1 Zettelkasten/Deploying via GitLab CI CD.md",
     "1 Zettelkasten/Podman Basic Commands.md",
     "1 Zettelkasten/Bash Commands Cheat Sheet.md",
-    "1 Zettelkasten/About GitOps.md",
     "Screenshots/ssh_setup_flow.png",
     "1 Zettelkasten/Linux/Arch Linux",
     "Screenshots/Linux-root-filesystem.jpg",
